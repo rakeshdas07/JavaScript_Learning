@@ -17,5 +17,5 @@ let name= "Rakesh"  //string
 let raj
 
 
-console.table([typeof x,typeof isEmpty,typeof name, typeof raj ,typeof null])
+console.table([typeof(x),typeof isEmpty,typeof name, typeof raj ,typeof (null)])
 
