@@ -6,5 +6,7 @@ For documents go to MDN javascipt - https://developer.mozilla.org/en-US/docs/Web
 ec39.cs ECMA standard( original JS documentation) - https://tc39.es
 
 
-For 06_StackHeapMemory.js reference image
+-----------------------------------------------------
+
+For **06_StackHeapMemory.js** reference image
 ![Alt text](./stackHeap.png)
