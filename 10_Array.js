@@ -64,7 +64,7 @@ let heroes=marvelHeroes.concat(dcHereoes)
 console.log(heroes); // [ 'Thor', 'Hulk', 'Ironman', 'Batman', 'Superman', 'Flash' ]
 
 
-//3. spread- works for multiple arrays.. it breaks all the elements into individual element. syntax-   [...arr1,...arr2,...arrn]
+//3. spread Operator ()...)- works for multiple arrays.. it breaks all the elements into individual element. syntax-   [...arr1,...arr2,...arrn]
 
 let newAllHeroes=[...marvelHeroes,...dcHereoes]
 console.log(newAllHeroes);

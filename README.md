@@ -10,3 +10,9 @@ ec39.cs ECMA standard( original JS documentation) - https://tc39.es
 
 For **06_StackHeapMemory.js** reference image
 ![Alt text](./stackHeap.png)
+
+
+------------------------------------------------
+Two main things to learn JS
+1. Objects
+2. DOM Events
