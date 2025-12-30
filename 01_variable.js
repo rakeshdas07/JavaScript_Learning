@@ -19,6 +19,6 @@ accCity="Dehradun"
 //two ways to print..
 // 1. using console.log()                   //can use to print multiple variables sepearted by ,
 // 2. using console.table([])              //can use multiple variable all at once to get the output in tabular way
-console.log(accountId);
+console.log("Account id is:",accountId);
 console.table([accountId,accEmail,accPassword,accCity,address])
 
