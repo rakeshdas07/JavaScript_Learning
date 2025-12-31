@@ -84,12 +84,17 @@ for (const lang in languages) {
     console.log(`At ${lang} index the value is ${languages[lang]}`);
 }
 
-//Foreach loop
+//-----------------------------------------------------------------------------------
 
+//3. Foreach loop
 
-//forEach a method (property) of the Array prototype in JavaScript.
-// ForEach is used to run a function once for every element in an array.
- 
+/*
+->forEach a method (property) of the Array prototype in JavaScript. and it uses a call back function means
+
+->forEach expects a function,that function is the callback. forEach calls the callback once for each array element
+
+->ForEach is used to run a function once for every element in an array.
+ */
 const codeIn=['js','py','cpp','java']
 
 //using normal function
