@@ -22,3 +22,15 @@ accCity="Dehradun"
 console.log("Account id is:",accountId);
 console.table([accountId,accEmail,accPassword,accCity,address])
 
+//To print the string and a variable(Three ways:)
+//1. String interpolation
+const name="Raj"
+console.log(`My name is ${name}`);
+
+//2. String concatination (+)
+
+console.log("My name is " + name+".I love playing cricket");
+
+//3. using comma
+
+console.log("My name is ", name, ".I love playing cricket");
